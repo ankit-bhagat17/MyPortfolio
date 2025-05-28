@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Diwali Sales Analysis using Matplotlib",
+    "tools": "Matplotlib,Pandas",
+    "description": "Built an interactive analysis report on Diwali sales.",
+    "image": "assets/Diwali Sales Image.jpg",
+    "link": "https://github.com/ankit-bhagat17/Diwali-Sales-Analysis"
+  },
+  {
+    "title": "Blinkit Gorcery Sales Analysis",
+    "tools": "Power BI",
+    "description": "Designed an interactive Power BI dashboard to analyze sales data across products, regions, and time periods. The project involved data cleaning, DAX calculations, and visualizations to track KPIs like total revenue, profit, and sales trends, enabling data-driven business decisions.Designed an interactive Power BI dashboard to analyze sales data across products, regions, and time periods. The project involved data cleaning, DAX calculations, and visualizations to track KPIs like total revenue, profit, and sales trends, enabling data-driven business decisions..",
+    "image": "assets/Blinkit Sales.png",
+    "link": "https://github.com/ankit-bhagat17/Blinkit-Grocery-Sales-Analysisi"
+  }
+]
+
